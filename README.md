@@ -94,8 +94,14 @@ This project follows **Onion Architecture** with 4 layers:
    ```
 2. Update connection string in `TaskManager.APIs/appsettings.json`  
 3. Run the project → migrations & seeding happen automatically  
+---
+
+## 🧪 Testing
+- Postman collection included: `Data/Postman/TaskManager API.postman_collection.json`  
+- Covers: Auth, Tasks, Reminders, Dashboard, Pricing  
 
 ---
+
 
 ## 👥 Sample Test Users
 **Default Admin (Seeded):**
@@ -166,11 +172,6 @@ This project follows **Onion Architecture** with 4 layers:
 3. Press **F5** → Swagger UI opens at `https://localhost:7162/swagger`  
 4. Use **Authorize** button → `Bearer <your-token>`  
 
----
-
-## 🧪 Testing
-- Postman collection included: `TaskManager.postman_collection.json`  
-- Covers: Auth, Tasks, Reminders, Dashboard, Pricing  
 
 ---
 
