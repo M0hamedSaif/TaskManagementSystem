@@ -6,15 +6,15 @@ Developed by **Mohamed Saif**.
 ---
 
 ## 📑 Table of Contents
-- [Project Structure](#project-structure)
-- [Architecture Overview](#architecture-overview)
-- [Technologies Used](#technologies-used)
-- [Database Setup](#database-setup)
-- [Sample Test Users](#sample-test-users)
-- [API Endpoints](#api-endpoints)
-- [Running the Project](#running-the-project)
-- [Testing](#testing)
-- [Additional Notes](#additional-notes)
+- [Project Structure](#-project-structure)
+- [Architecture Overview](#-architecture-overview)
+- [Technologies Used](#️-technologies-used)
+- [Database Setup](#-database-setup)
+- [Sample Test Users](#-sample-test-users)
+- [API Endpoints](#-api-endpoints)
+- [Running the Project](#️-running-the-project)
+- [Testing](#-testing)
+- [Additional Notes](#-additional-notes)
 
 ---
 
@@ -175,7 +175,7 @@ This project follows **Onion Architecture** with 4 layers:
 ---
 
 ## 📌 Additional Notes
-- Enums sent/received as strings (e.g., `"Design"`)  
+- Enums sent/received as strings (e.g., "Design")  
 - DateTime stored in UTC  
 - Consistent error response format:  
   ```json
@@ -184,4 +184,4 @@ This project follows **Onion Architecture** with 4 layers:
     "message": "Not Found"
   }
   ```
-- JWT tokens expire after 7 days  
+- JWT tokens expire after 7 days
