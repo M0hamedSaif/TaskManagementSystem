@@ -10,10 +10,10 @@ Developed by **Mohamed Saif**.
 - [Architecture Overview](#-architecture-overview)
 - [Technologies Used](#️-technologies-used)
 - [Database Setup](#-database-setup)
+- [Testing](#-testing)
 - [Sample Test Users](#-sample-test-users)
 - [API Endpoints](#-api-endpoints)
 - [Running the Project](#️-running-the-project)
-- [Testing](#-testing)
 - [Additional Notes](#-additional-notes)
 
 ---
