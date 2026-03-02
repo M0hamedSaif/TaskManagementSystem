@@ -90,7 +90,7 @@ This project follows **Onion Architecture** with 4 layers:
 1. Clone the repository  
    ```bash
    git clone https://github.com/M0hamedSaif/TaskManagementSystem
-   cd Task-Management-System
+   cd TaskManagementSystem
    ```
 2. Update connection string in `TaskManager.APIs/appsettings.json`  
 3. Run the project → migrations & seeding happen automatically  
